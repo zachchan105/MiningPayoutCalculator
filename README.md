@@ -1,4 +1,4 @@
-# MiningPayoutCalculator
+# Mining Payout Calculator
 A simple java program designed to calculate how much each device made on a mining pool
 
 Program is designed to acheive a certain number of tasks in the following order:
