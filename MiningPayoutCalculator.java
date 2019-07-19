@@ -94,7 +94,7 @@ public class MiningPayoutCalculator {
 			//Equation for calculating the amount of crypto each device produced.
 			tmpPayout = currencyMine * (tmpDouble/tmpDouble2);
 			System.out.println("");
-			System.out.println("Payout for device " + i + ": " + tmpPayout);
+			System.out.println("Payout for device " + (i+1) + ": " + tmpPayout);
 
 
 		}
